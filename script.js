@@ -17,7 +17,7 @@ while (counter<10){
 }
 
 alert ("Begin") 
-alert("Who's there?"){
+alert("Qui est-ce?"){
 
 }
 let message
